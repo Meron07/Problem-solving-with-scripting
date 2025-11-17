@@ -1,0 +1,5 @@
+#N Glider
+# A simple glider pattern that moves diagonally
+.O.
+..O
+OOO

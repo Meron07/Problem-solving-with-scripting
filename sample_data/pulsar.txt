@@ -1,0 +1,15 @@
+#N Pulsar
+# Period 3 oscillator - large pattern
+..OOO...OOO..
+
+O....O.O....O
+O....O.O....O
+O....O.O....O
+..OOO...OOO..
+.............
+..OOO...OOO..
+O....O.O....O
+O....O.O....O
+O....O.O....O
+
+..OOO...OOO..
