@@ -1,7 +1,7 @@
 Metric,Value,Unit
 Transport Mode,Bicycle,
-Optimization Objective,Cost,
-Total Distance,4543.166,km
-Total Time,302.878,hours
+Optimization Objective,Time,
+Total Distance,6698.241,km
+Total Time,446.549,hours
 Total Cost,0.00,NOK
 Total CO2,0.00,g
