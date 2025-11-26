@@ -152,10 +152,4 @@ Enter board height: 40
 Select pattern (1-5): 1    # Glider
 ```
 
-#### Main Features
 
-1. **Create Blank Board**: Custom dimensions
-2. **Load Pattern**: From file (multiple formats supported)
-3. **Predefined Patterns**: Glider, Blinker, Toad, Beacon, Pulsar
-4. **Simulation**: Run N generations, run until stable, step-by-step
-5. **Rules**: Standard, HighLife, Day & Night (extensible)
