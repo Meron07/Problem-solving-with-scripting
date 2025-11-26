@@ -4,7 +4,8 @@ Supports pattern loading, custom rules, and state management.
 """
 
 from .board import Board
-from .rules import StandardRules, RuleRegistry
+from .rules import StandardRules
+from .metaprogramming import RuleRegistry
 from .simulator import Simulator
 
 __all__ = ['Board', 'StandardRules', 'RuleRegistry', 'Simulator']
