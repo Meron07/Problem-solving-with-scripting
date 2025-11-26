@@ -66,8 +66,8 @@ class TestBoard:
         # Center cell (2, 2) should have 3 neighbors
         assert board.count_neighbors(2, 2) == 3
         
-        # Cell (1, 1) should have 1 neighbor
-        assert board.count_neighbors(1, 1) == 1
+        # Cell (1, 1) should have 2 neighbors (cells at 1,2 and 2,1)
+        assert board.count_neighbors(1, 1) == 2
     
     def test_count_alive(self):
         """Test counting alive cells."""

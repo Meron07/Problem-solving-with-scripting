@@ -4,7 +4,7 @@ Simulator class for running Game of Life simulations.
 
 import logging
 import time
-from typing import Optional, Callable
+from typing import Optional, Callable, Tuple
 from .board import Board
 from .rules import StandardRules
 from .metaprogramming import RuleRegistry, performance_monitor
